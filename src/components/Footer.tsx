@@ -14,7 +14,7 @@ const Footer = () => {
           Instagram
         </a>
       </div>
-      <div className="text-[0.9rem] text-blue">&#169; 2023 All rights reserved.</div>
+      <div className="text-[0.9rem] text-blue">&#169; 2023 Sameer Manjrekar All rights reserved.</div>
     </div>
   );
 };
